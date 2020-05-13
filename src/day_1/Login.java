@@ -7,6 +7,7 @@ public class Login {
         System.out.println("Selam");
         
         System.out.println("Ne yapiyorsun");
+        //this line is written by Intellij
 
     }
 }
