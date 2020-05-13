@@ -9,7 +9,7 @@ public class Login {
         System.out.println("Ne yapiyorsun");
         //this line is written by Intellij
 
-        // this line is added by github
+
 
     }
 }
